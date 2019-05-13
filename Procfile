@@ -1,1 +1,1 @@
-worker: python MET_Recruitment_Bot.py
+worker: python bot.py
